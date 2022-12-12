@@ -1,0 +1,15 @@
+C:\Users\Зулфизар\Desktop\lession C# 3\Examples\Задание 47\bin\Debug\net6.0\Задание 47.exe
+C:\Users\Зулфизар\Desktop\lession C# 3\Examples\Задание 47\bin\Debug\net6.0\Задание 47.deps.json
+C:\Users\Зулфизар\Desktop\lession C# 3\Examples\Задание 47\bin\Debug\net6.0\Задание 47.runtimeconfig.json
+C:\Users\Зулфизар\Desktop\lession C# 3\Examples\Задание 47\bin\Debug\net6.0\Задание 47.dll
+C:\Users\Зулфизар\Desktop\lession C# 3\Examples\Задание 47\bin\Debug\net6.0\Задание 47.pdb
+C:\Users\Зулфизар\Desktop\lession C# 3\Examples\Задание 47\obj\Debug\net6.0\Задание 47.csproj.AssemblyReference.cache
+C:\Users\Зулфизар\Desktop\lession C# 3\Examples\Задание 47\obj\Debug\net6.0\Задание 47.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Зулфизар\Desktop\lession C# 3\Examples\Задание 47\obj\Debug\net6.0\Задание 47.AssemblyInfoInputs.cache
+C:\Users\Зулфизар\Desktop\lession C# 3\Examples\Задание 47\obj\Debug\net6.0\Задание 47.AssemblyInfo.cs
+C:\Users\Зулфизар\Desktop\lession C# 3\Examples\Задание 47\obj\Debug\net6.0\Задание 47.csproj.CoreCompileInputs.cache
+C:\Users\Зулфизар\Desktop\lession C# 3\Examples\Задание 47\obj\Debug\net6.0\Задание 47.dll
+C:\Users\Зулфизар\Desktop\lession C# 3\Examples\Задание 47\obj\Debug\net6.0\refint\Задание 47.dll
+C:\Users\Зулфизар\Desktop\lession C# 3\Examples\Задание 47\obj\Debug\net6.0\Задание 47.pdb
+C:\Users\Зулфизар\Desktop\lession C# 3\Examples\Задание 47\obj\Debug\net6.0\Задание 47.genruntimeconfig.cache
+C:\Users\Зулфизар\Desktop\lession C# 3\Examples\Задание 47\obj\Debug\net6.0\ref\Задание 47.dll

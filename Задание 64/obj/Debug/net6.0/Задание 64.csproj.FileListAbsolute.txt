@@ -1,0 +1,15 @@
+C:\Users\Зулфизар\Desktop\lession C# 3\Examples\Задание 64\bin\Debug\net6.0\Задание 64.exe
+C:\Users\Зулфизар\Desktop\lession C# 3\Examples\Задание 64\bin\Debug\net6.0\Задание 64.deps.json
+C:\Users\Зулфизар\Desktop\lession C# 3\Examples\Задание 64\bin\Debug\net6.0\Задание 64.runtimeconfig.json
+C:\Users\Зулфизар\Desktop\lession C# 3\Examples\Задание 64\bin\Debug\net6.0\Задание 64.dll
+C:\Users\Зулфизар\Desktop\lession C# 3\Examples\Задание 64\bin\Debug\net6.0\Задание 64.pdb
+C:\Users\Зулфизар\Desktop\lession C# 3\Examples\Задание 64\obj\Debug\net6.0\Задание 64.csproj.AssemblyReference.cache
+C:\Users\Зулфизар\Desktop\lession C# 3\Examples\Задание 64\obj\Debug\net6.0\Задание 64.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Зулфизар\Desktop\lession C# 3\Examples\Задание 64\obj\Debug\net6.0\Задание 64.AssemblyInfoInputs.cache
+C:\Users\Зулфизар\Desktop\lession C# 3\Examples\Задание 64\obj\Debug\net6.0\Задание 64.AssemblyInfo.cs
+C:\Users\Зулфизар\Desktop\lession C# 3\Examples\Задание 64\obj\Debug\net6.0\Задание 64.csproj.CoreCompileInputs.cache
+C:\Users\Зулфизар\Desktop\lession C# 3\Examples\Задание 64\obj\Debug\net6.0\Задание 64.dll
+C:\Users\Зулфизар\Desktop\lession C# 3\Examples\Задание 64\obj\Debug\net6.0\refint\Задание 64.dll
+C:\Users\Зулфизар\Desktop\lession C# 3\Examples\Задание 64\obj\Debug\net6.0\Задание 64.pdb
+C:\Users\Зулфизар\Desktop\lession C# 3\Examples\Задание 64\obj\Debug\net6.0\Задание 64.genruntimeconfig.cache
+C:\Users\Зулфизар\Desktop\lession C# 3\Examples\Задание 64\obj\Debug\net6.0\ref\Задание 64.dll
